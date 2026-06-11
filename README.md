@@ -55,7 +55,7 @@ This repository simulates a real QA workflow used in software development teams:
 -  [ Functioneel test plan](functioneeltest.md)
 -  Test Cases  
 -  [Technical Test plan](technischtest.md)
--  [ GO / NO GO Report ](pass-failtestraportage.md) 
+-  [ GO / NO GO Report ](pass-failtest_raportage.md) 
 -  Documentation  
 
 ---
