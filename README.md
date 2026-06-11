@@ -207,7 +207,6 @@ This repository demonstrates:
 Software Testing & Quality Assurance Portfolio
 
 ---
+<img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/49a51101-c2da-4e39-b510-422fe550808b" />
 
-##  Quote
 
-> *“Quality is not an accident; it is the result of structured testing and proper preparation.”*
